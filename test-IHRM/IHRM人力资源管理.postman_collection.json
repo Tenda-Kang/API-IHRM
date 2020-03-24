@@ -524,7 +524,7 @@
 						],
 						"body": {
 							"mode": "raw",
-							"raw": "{\"username\": \"xiaona290\",\r\n    \"mobile\": \"15631631290\",\r\n    \"timeOfEntry\": \"2019-07-01\",\r\n    \"formOfEmployment\": 1,\r\n    \"workNumber\": \"1322131\",\r\n    \"departmentName\": \"开发部\",\r\n    \"departmentId\": \"1066240656856453120\",\r\n    \"correctionTime\": \"2019-11-30\"}"
+							"raw": "{\"username\": \"xiaona294\",\r\n    \"mobile\": \"15631631294\",\r\n    \"timeOfEntry\": \"2019-07-01\",\r\n    \"formOfEmployment\": 1,\r\n    \"workNumber\": \"1322131\",\r\n    \"departmentName\": \"开发部\",\r\n    \"departmentId\": \"1066240656856453120\",\r\n    \"correctionTime\": \"2019-11-30\"}"
 						},
 						"url": {
 							"raw": "{{base_url}}/api/sys/user",
